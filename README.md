@@ -5,6 +5,8 @@ Optical Character Recognition in Matlab
     - This is a project that performs OCR on a .png image using machine learning.
     - It uses the following functions:
         - `findRotationAngle.m`: Finds the angle to rotate the image to make the text horizontal.
+          <img width="525" height="394" alt="image" src="https://github.com/user-attachments/assets/e40e3ff6-ce49-4ea8-b678-9138e14044da" />
+
         - `rotateImage.m`: Rotates the image according to the angle.
         - `getcontour.m`: Finds the contour of the text in the image.
         - `describer.m`: Describes the contour using Fourier descriptors.
