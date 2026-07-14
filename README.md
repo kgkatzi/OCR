@@ -11,6 +11,7 @@ Optical Character Recognition in Matlab
           <img width="589" height="253" alt="image" src="https://github.com/user-attachments/assets/3c361d33-fa72-4184-a38b-169bc0bc93d2" />
 
         - `getcontour.m`: Finds the contour of the text in the image.
+          
           <img width="123" height="109" alt="image" src="https://github.com/user-attachments/assets/3281c8a4-9791-49b4-baa1-552441742c89" />
 
         - `describer.m`: Describes the contour using Fourier descriptors.
